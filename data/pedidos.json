@@ -1,5 +1,5 @@
 {
-  "nextId": 501,
+  "nextId": 503,
   "pedidos": [
     {
       "id": 1,
@@ -3993,6 +3993,14 @@
       "valor": 32,
       "entregue": true,
       "timestamp": "2021-05-02T19:48:09.767Z"
+    },
+    {
+      "id": 502,
+      "entregue": false,
+      "cliente": "Nome do Cliente",
+      "produto": "Pizza de Calabresa",
+      "valor": 30,
+      "timestamp": "2024-04-29T21:48:57.348Z"
     }
   ]
 }
